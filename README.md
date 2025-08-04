@@ -15,12 +15,12 @@
     📬 Conecte-se:
   </h3>
   <br />
-  <a href="#" target="_blank">
+  <a href="https://josefmmxv.vercel.app/" target="_blank">
     <img 
       src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" 
       alt="portfolio">
   </a>
-  <a href="#" target="_blank">
+  <a href="https://drive.google.com/file/d/1tUrPRfjaCaQU5Cp34z14NLHjw66IsyoI/view?usp=drive_link" target="_blank">
     <img 
       src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" 
       alt="resume">
