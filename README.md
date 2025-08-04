@@ -43,7 +43,6 @@
 <div>
   <ul>
     <li>💻 Front-end developer React.js/Next.js.</li><br/>
-    <li>📌 Moro em Nova Iguaçu/RJ-BR.</li><br/>
     <li>🔭 Atualmente estou estudando Back-end .Net</li><br/>
     <li>📚🎓👨‍🎓 Estou Graduando Sistemas para Internet</li><br/>
     <li>👨‍🎓 Participo bastante de Bootcamps tanto de front quanto back.</li><br/>
